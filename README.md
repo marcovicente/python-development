@@ -6,7 +6,7 @@ Examples and auxiliary documentation for Python development.
 Setup the Python Development Environment
 
 * Windows
-
+** Instalar Anaconda [download](https://www.continuum.io/downloads)
 
 * Mac
 
