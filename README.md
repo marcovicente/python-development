@@ -7,11 +7,11 @@ Setup the Python Development Environment
 
 ### Windows ###
 
-* [Instalar Anaconda](https://www.continuum.io/downloads)
+* [Instalar Anaconda](https://www.continuum.io/downloads) (Python 3.6 version)
 
 ### Mac ###
 
-*  [Instalar Anaconda](https://www.continuum.io/downloads)
+*  [Instalar Anaconda](https://www.continuum.io/downloads) (Python 3.6 version)
 
 ## Authors 
 [Marco Vicente](https://twitter.com/h_markov_m)
