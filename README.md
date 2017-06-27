@@ -5,12 +5,13 @@ Examples and auxiliary documentation for Python development.
 ## Getting Started ##
 Setup the Python Development Environment
 
-* Windows
+### Windows ###
 
- *  Instalar Anaconda [download](https://www.continuum.io/downloads)
+* Instalar Anaconda [download](https://www.continuum.io/downloads)
 
-* Mac
+### Mac ###
 
+* Instalar Anaconda [download](https://www.continuum.io/downloads)
 
 ## Authors 
 [Marco Vicente](https://twitter.com/h_markov_m)
